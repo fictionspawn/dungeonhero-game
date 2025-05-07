@@ -1,2 +1,2 @@
 # dungeonhero-game
-A little game proof of concept I made to learn Rust
+A little text based terminal game proof of concept I made to learn Rust. # cargo run to play.
