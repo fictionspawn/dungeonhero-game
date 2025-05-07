@@ -1,2 +1,2 @@
 # dungeonhero-game
-A little game I made to learn Rust
+A little game proof of concept I made to learn Rust
