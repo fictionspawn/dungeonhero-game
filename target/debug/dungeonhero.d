@@ -1,1 +1,1 @@
-/root/dev-folder/dungeonhero-game/target/debug/dungeonhero: /root/dev-folder/dungeonhero-game/src/creature.rs /root/dev-folder/dungeonhero-game/src/main.rs
+/root/dev-folder/rust-projects/rust-games/dungeonhero-game/target/debug/dungeonhero: /root/dev-folder/rust-projects/rust-games/dungeonhero-game/src/creature.rs /root/dev-folder/rust-projects/rust-games/dungeonhero-game/src/main.rs
