@@ -89,4 +89,4 @@ pub fn fight(hero: creature::Hero, monster: creature::Monster) {
         println!("{} dies! You lose! Your score: {}", hero.name, hero.strength)
     }
 }
-
+//TODO: Implement pet in fights. 
